@@ -1,0 +1,3 @@
+这个配置
+意思是有两个项目，一个configclient，一个configclient2
+另外每个项目都有三个环境
